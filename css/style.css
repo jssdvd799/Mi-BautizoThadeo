@@ -2,8 +2,7 @@
   --whiteColor: #ffffff;
   --yellowColor: #e9d204;
   --blackColor: #000000;
-  background: #fbe202;
-  
+
 }
 
 /* * {
@@ -16,6 +15,7 @@
   padding: 0;
   font-family: "Poppins", "Poppins-Black", "Poppins-Italic", "Poppins-Light","Poppins-Thin", " Poppins-SemiBold",  "Poppins-Bold", "Poppins-BlackItalic";
   box-sizing: border-box;
+  background: #fbe202;
 } 
 
 .contenedor{
